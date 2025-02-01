@@ -46,7 +46,7 @@ This project implements a Retrieval-Augmented Generation (RAG) model that enable
 - The system will process the query and return relevant insights.
 
 
-###Contributing
+### Contributing
 - Feel free to fork this repository, make improvements, and submit pull requests. Please ensure all code follows the existing conventions and passes relevant tests.
 
 
