@@ -26,12 +26,12 @@ This project implements a Retrieval-Augmented Generation (RAG) model that enable
   pip install -r requirements.txt
 
 
-###Environment Variables
+### Environment Variables
 - Set the PINECONE_API_KEY for Pinecone.
 - Set the GOOGLE_API_KEY for Google Generative AI.
 
 
-###Running the Application
+### Running the Application
 - 1.Start the application locally
 - streamlit run app.py
 
@@ -40,7 +40,7 @@ This project implements a Retrieval-Augmented Generation (RAG) model that enable
 - ngrok http 5000
 
 
-###Usage
+### Usage
 - Upload a financial PDF (P&L statement).
 - nter a financial query.
 - The system will process the query and return relevant insights.
